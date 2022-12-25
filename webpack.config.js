@@ -30,7 +30,6 @@ module.exports = {
     port: 9000,
     hot: true,
     static: "./dist",
-    // contentBase: "./dist",
   },
 
   module: {
