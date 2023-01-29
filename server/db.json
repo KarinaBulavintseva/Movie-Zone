@@ -1,0 +1,237 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Interstellar",
+      "release_date": "2014-10-26",
+      "imdb_rating": 8.6,
+      "runtime": 169,
+      "genres": ["Adventure", "Sci-Fi", "Drama", " Action"],
+      "poster_path": "https://www.themoviedb.org/t/p/original/bzONet3OeCTz5q9WOkGjVpOHMSR.jpg",
+      "backdrop_path": "https://free4kwallpapers.com/uploads/originals/2020/11/14/interstellar-space-wallpaper.jpg",
+      "overview": "With humanity teetering on the brink of extinction, a group of astronauts travels through a wormhole in search of another inhabitable planet."
+    },
+
+    {
+      "id": 2,
+      "title": "The Hobbit: An Unexpected Journey",
+      "release_date": "2012-12-06",
+      "imdb_rating": 7.8,
+      "runtime": 169,
+      "genres": ["Adventure", "Fantasy"],
+      "poster_path": "https://assets.nflxext.com/us/boxshots/hd1080/70226288.jpg",
+      "backdrop_path": "https://cdn.bagogames.com/wp-content/uploads/2014/12/05052216/the-hobbit-the-desolation-of-smaug-hd-wallpaper-1-139752-1920x1200.jpg?strip=all&lossy=1&ssl=1",
+      "overview": "Beloved hobbit Bilbo Baggins is back in a visually spectacular tale inspired by The Lord of the Rings and likewise directed by Peter Jackson. Joining the effort to free the Kingdom of Erebor, Bilbo also faces a fateful encounter with Gollum."
+    },
+    {
+      "id": 3,
+      "title": "Death on the Nile",
+      "release_date": "2022-11-02",
+      "imdb_rating": 6.3,
+      "runtime": 127,
+      "genres": ["Crime", "Drama", "Mystery", "Thriller", "Action", "Adventure"],
+      "poster_path": "https://www.themoviedb.org/t/p/original/yGHUf8wimDvWxm1EyHmUAR4Sbkl.jpg",
+      "backdrop_path": "https://helios-i.mashable.com/imagery/articles/02zHc8W5LMjFZqKqftXISa6/hero-image.fill.size_1248x702.v1644193927.png",
+      "overview": "Belgian sleuth Hercule Poirot boards a glamorous river steamer with enough champagne to fill the Nile. But his Egyptian vacation turns into a thrilling search for a murderer when a picture-perfect couple’s idyllic honeymoon is tragically cut short."
+    },
+
+    {
+      "id": 4,
+      "title": "The Devil's Advocate",
+      "release_date": "1997-10-17",
+      "imdb_rating": 7.5,
+      "runtime": 144,
+      "genres": ["Drama", "Mystery", "Thriller", "Horror"],
+      "poster_path": "https://www.themoviedb.org/t/p/w1280/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
+      "backdrop_path": "https://www.mirf.ru/wp-content/uploads/2020/04/The-Devils-Advocate-Keanu-Reeves-and-Al-Pacino-with-Fire.jpg",
+      "overview": "An exceptionally-adept Florida lawyer is offered a job at a high-end New York City law firm with a high-end boss--the biggest opportunity of his career to date."
+    },
+    {
+      "id": 5,
+      "title": "Meet Joe Black",
+      "release_date": "1998-11-13",
+      "imdb_rating": 7.2,
+      "runtime": 178,
+      "genres": ["Fantasy", "Drama", "Romance"],
+      "poster_path": "https://www.themoviedb.org/t/p/w1280/fDPAjvfPMomkKF7cMRmL5Anak61.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/14Y8zA34cD4gFaEujY0qGHPO4T7.jpg",
+      "overview": "When the grim reaper comes to collect the soul of megamogul Bill Parrish, he arrives with a proposition: Host him for a 'vacation' among the living in trade for a few more days of existence. Parrish agrees, and using the pseudonym Joe Black, Death begins taking part in Parrish's daily agenda and falls in love with the man's daughter. Yet when Black's holiday is over, so is Parrish's life."
+    },
+    {
+      "id": 6,
+      "title": "Sleepy Hollow",
+      "release_date": "1999-11-19",
+      "imdb_rating": 7.3,
+      "runtime": 105,
+      "genres": ["Drama", "Fantasy", "Thriller", "Mystery", "Horror"],
+      "poster_path": "https://www.themoviedb.org/t/p/w1280/660DFxWpSfZ1d1PruZ6Nd9vKXNE.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/tKrwCcCakpf5L16gZn8zHt8YHX6.jpg",
+      "overview": "New York detective Ichabod Crane is sent to Sleepy Hollow to investigate a series of mysterious deaths in which the victims are found beheaded. Locals believe the culprit to be none other than the legendary Headless Horseman."
+    },
+    {
+      "id": 7,
+      "title": "Avatar",
+      "release_date": "2009-12-18",
+      "imdb_rating": 7.8,
+      "runtime": 162,
+      "genres": ["Action", "Adventure", "Fantasy", "Science", "Fiction"],
+      "poster_path": "https://www.themoviedb.org/t/p/w1280/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/8I37NtDffNV7AZlDa7uDvvqhovU.jpg",
+      "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization."
+    },
+    {
+      "id": 8,
+      "title": "Dark Shadows",
+      "release_date": "2012-05-11",
+      "imdb_rating": 6.2,
+      "runtime": 113,
+      "genres": ["Comedy", "Fantasy"],
+      "poster_path": "https://www.themoviedb.org/t/p/w1280/fd9Ck4cxVlmtXsbeGtQW7WFuUFI.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/kDjR3rP5aa102CvAFlVCAdJFyRV.jpg",
+      "overview": "Vampire Barnabas Collins is inadvertently freed from his tomb and emerges into the very changed world of 1972. He returns to Collinwood Manor to find that his once-grand estate and family have fallen into ruin."
+    },
+    {
+      "id": 9,
+      "title": "The Matrix",
+      "release_date": "1999-03-31",
+      "imdb_rating": 8.7,
+      "runtime": 136,
+      "genres": ["Sci-Fi", "Action"],
+      "poster_path": "https://www.themoviedb.org/t/p/original/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/y9wuhlrqSHvhTLNVNwKMKe6HZzY.jpg",
+      "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth."
+    },
+    {
+      "id": 10,
+      "title": "Se7en",
+      "release_date": "1995-09-22",
+      "imdb_rating": "8.6",
+      "runtime": 127,
+      "genres": ["Crime", "Drama", "Mystery"],
+      "poster_path": "https://www.themoviedb.org/t/p/original/GQP6noTBKsYiAYyn8PYXFcsSgH.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/neYH6VXdpqSR0KNREwAJ1aNmnsB.jpg",
+      "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the 'seven deadly sins' in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Sommerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case."
+    },
+    {
+      "id": 11,
+      "title": "The Godfather",
+      "release_date": "1972-03-24",
+      "imdb_rating": 9.2,
+      "runtime": 175,
+      "genres": ["Crime", "Drama"],
+      "poster_path": "https://www.themoviedb.org/t/p/original/3Tf8vXykYhzHdT0BtsYTp570JGQ.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+      "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge."
+    },
+    {
+      "id": 12,
+      "title": "The Shawshank Redemption",
+      "release_date": "1994-10-14",
+      "imdb_rating": 9.3,
+      "runtime": 142,
+      "genres": ["Drama"],
+      "poster_path": "https://www.themoviedb.org/t/p/original/qTEApvOJ4H7pGWcwDMqr9OcQ5sc.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/wPU78OPN4BYEgWYdXyg0phMee64.jpg",
+      "overview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope."
+    },
+    {
+      "id": 13,
+      "title": "Pulp Fiction",
+      "release_date": "1994-10-14",
+      "imdb_rating": 8.9,
+      "runtime": 154,
+      "genres": ["Crime", "Drama"],
+      "poster_path": "https://www.themoviedb.org/t/p/original/fIE3lAGcZDV1G6XM5KmuWnNsPp1.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/19joFuQ6YTkcru4rvOf8b9CIjjg.jpg",
+      "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time."
+    },
+    {
+      "id": 14,
+      "title": "A Beautiful Mind",
+      "release_date": "2002-01-04",
+      "imdb_rating": 8.2,
+      "runtime": 135,
+      "genres": ["Drama", "Biography"],
+      "poster_path": "https://www.themoviedb.org/t/p/original/87x1HpDgMnwmcpP0GI8O3NWgMQ4.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+      "overview": "John Nash is a brilliant but asocial mathematician fighting schizophrenia. After he accepts secret work in cryptography, his life takes a turn for the nightmarish."
+    },
+    {
+      "id": 15,
+      "title": "Forrest Gump",
+      "release_date": "1994-07-06",
+      "imdb_rating": 8.8,
+      "runtime": 142,
+      "genres": ["Drama", "Romance"],
+      "poster_path": "https://www.themoviedb.org/t/p/original/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/qdIMHd4sEfJSckfVJfKQvisL02a.jpg",
+      "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him."
+    },
+    {
+      "id": 16,
+      "title": "The Silence of the Lambs",
+      "release_date": "1991-02-14",
+      "imdb_rating": 8.6,
+      "runtime": 118,
+      "genres": ["Crime", "Drama", "Thriller"],
+      "poster_path": "https://www.themoviedb.org/t/p/original/kdHWRQpShAHfE7Q1a7Pdavd2uTl.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/rOYB0MQzKSAhZiWwj6K0Spul68.jpg",
+      "overview": "Clarice Starling is a top student at the FBI's training academy. Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism. Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out."
+    },
+    {
+      "id": 17,
+      "title": "The Visitors",
+      "release_date": "1993-01-27",
+      "imdb_rating": 7.0,
+      "runtime": 107,
+      "genres": ["Comedy", "Fantasy"],
+      "poster_path": "https://www.themoviedb.org/t/p/original/hPCq0buG5PaXgKjzT2ktjrjlpbj.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/wN24GOFhEpRrqmwLoIEKpHQ68ne.jpg",
+      "overview": "A medieval knight and his servant ask a familiar wizard to move them back in time to prevent father-in-law's accidentally killing. Instead, they fly away to the 20th century."
+    },
+    {
+      "id": 18,
+      "title": "The Addams Family",
+      "release_date": "1991-11-22",
+      "imdb_rating": 6.9,
+      "runtime": 99,
+      "genres": ["Comedy", "Fantasy"],
+      "poster_path": "https://www.themoviedb.org/t/p/original/qFf8anju5f2epI0my8RdwwIXFIP.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/7OxGhxUYAdtuike29VMzEFxJx7y.jpg",
+      "overview": "When a man claiming to be long-lost Uncle Fester reappears after 25 years lost, the family plans a celebration to wake the dead. But the kids barely have time to warm up the electric chair before Morticia begins to suspect Fester is fraud when he can't recall any of the details of Fester's life."
+    },
+    {
+      "id": 19,
+      "title": "Charlie and the Chocolate Factory",
+      "release_date": "2005-07-15",
+      "imdb_rating": 6.7,
+      "runtime": 115,
+      "genres": ["Adventure", "Comedy", "Family"],
+      "poster_path": "https://www.themoviedb.org/t/p/original/Oop38B7iJdykEkpAhNZKbEz91t.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/atoIgfAk2Ig2HFJLD0VUnjiPWEz.jpg",
+      "overview": "A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker."
+    },
+    {
+      "id": 20,
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "release_date": "2006-07-07",
+      "imdb_rating": 7.3,
+      "runtime": 151,
+      "genres": ["Action", "Adventure", "Fantasy"],
+      "poster_path": "https://www.themoviedb.org/t/p/original/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/8zfRLCgKrLAc5SSnACz8ZqmeKAP.jpg",
+      "overview": "Captain Jack Sparrow works his way out of a blood debt with the ghostly Davy Jones to avoid eternal damnation."
+    },
+    {
+      "id": 21,
+      "title": "Avatar: The Way of Water",
+      "release_date": "2022-12-16",
+      "imdb_rating": 7.9,
+      "runtime": 192,
+      "genres": ["Action", "Adventure", "Fantasy"],
+      "poster_path": "https://www.themoviedb.org/t/p/original/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/vLT1Imot1ydxBncHq6V8yJ4emYh.jpg",
+      "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure."
+    }
+  ]
+}
