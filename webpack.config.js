@@ -38,6 +38,17 @@ module.exports = {
         test: /\.(js|jsx|tsx|ts)$/,
         exclude: /node-modules/,
         use: ['babel-loader']
+      },
+      {
+        test: /\.svg$/,
+        use: [
+          {
+            loader: 'svg-url-loader',
+            options: {
+              limit: 10000
+            }
+          }
+        ]
       }
     ]
   },
